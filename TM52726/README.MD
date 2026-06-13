@@ -16,7 +16,7 @@ them. This resolves the audio issue and performance issue.
 # Diagnostics Performed:
 - Action: Installed all missing drivers
 Results: Installed correctly. All devices are working properly.
-Notes: Video Card, Chipsets, and SerialIO had missing drivers. Video card was passing the
+Notes: Video Card, Chipsets, and Serial IO had missing drivers. Video card was passing the
 audio through the HDMI cable. This is why the client had no sound.
 
 - Action: Performed System File Check
